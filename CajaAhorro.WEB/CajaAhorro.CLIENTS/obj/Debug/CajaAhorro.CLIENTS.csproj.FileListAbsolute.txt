@@ -1,0 +1,9 @@
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.CLIENTS\bin\Debug\CajaAhorro.CLIENTS.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.CLIENTS\bin\Debug\CajaAhorro.CLIENTS.pdb
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.CLIENTS\bin\Debug\Newtonsoft.Json.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.CLIENTS\bin\Debug\Newtonsoft.Json.xml
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.CLIENTS\obj\Debug\CajaAhorro.CLIENTS.csprojAssemblyReference.cache
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.CLIENTS\obj\Debug\CajaAhorro.CLIENTS.csproj.CoreCompileInputs.cache
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.CLIENTS\obj\Debug\CajaAhorro.CLIENTS.csproj.CopyComplete
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.CLIENTS\obj\Debug\CajaAhorro.CLIENTS.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.CLIENTS\obj\Debug\CajaAhorro.CLIENTS.pdb

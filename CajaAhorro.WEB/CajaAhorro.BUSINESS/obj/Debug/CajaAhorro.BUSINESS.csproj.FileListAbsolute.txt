@@ -1,0 +1,13 @@
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\bin\Debug\CajaAhorro.BUSINESS.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\bin\Debug\CajaAhorro.BUSINESS.pdb
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\bin\Debug\CajaAhorro.CLIENTS.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\bin\Debug\CajaAhorro.ENTITY.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\bin\Debug\Newtonsoft.Json.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\bin\Debug\CajaAhorro.CLIENTS.pdb
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\bin\Debug\CajaAhorro.ENTITY.pdb
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\bin\Debug\Newtonsoft.Json.xml
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\obj\Debug\CajaAhorro.BUSINESS.csprojAssemblyReference.cache
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\obj\Debug\CajaAhorro.BUSINESS.csproj.CoreCompileInputs.cache
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\obj\Debug\CajaAhorro.BUSINESS.csproj.CopyComplete
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\obj\Debug\CajaAhorro.BUSINESS.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEB\CajaAhorro.BUSINESS\obj\Debug\CajaAhorro.BUSINESS.pdb

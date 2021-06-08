@@ -1,0 +1,9 @@
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEBSERVICE\CajaAhorro.DATOS\bin\Debug\CajaAhorro.DATOS.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEBSERVICE\CajaAhorro.DATOS\bin\Debug\CajaAhorro.DATOS.pdb
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEBSERVICE\CajaAhorro.DATOS\bin\Debug\CajaAhorro.ENTITY.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEBSERVICE\CajaAhorro.DATOS\bin\Debug\CajaAhorro.ENTITY.pdb
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEBSERVICE\CajaAhorro.DATOS\obj\Debug\CajaAhorro.DATOS.csprojAssemblyReference.cache
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEBSERVICE\CajaAhorro.DATOS\obj\Debug\CajaAhorro.DATOS.csproj.CoreCompileInputs.cache
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEBSERVICE\CajaAhorro.DATOS\obj\Debug\CajaAhorro.DATOS.csproj.CopyComplete
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEBSERVICE\CajaAhorro.DATOS\obj\Debug\CajaAhorro.DATOS.dll
+D:\Git\ProyectoCajaAhorro\CajaAhorro.WEBSERVICE\CajaAhorro.DATOS\obj\Debug\CajaAhorro.DATOS.pdb
